@@ -2,8 +2,8 @@
   "mappings": [
     {
       "repo": "syed-saifi-cognizant/auster-forms",
-      "path": "/content/dam/formsanddocuments/troopersforms",
-      "url": "/content/dam/formsanddocuments/troopersforms"
+      "path": "/content/dam/formsanddocuments/troopersforms/aem-forms",
+      "url": "/content/dam/formsanddocuments/troopersforms/aem-forms"
     }
   ],
   "includes": [
