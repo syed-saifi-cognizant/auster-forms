@@ -1,10 +1,12 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    {
+      "repo": "syed-saifi-cognizant/auster-forms",
+      "path": "/content/dam/formsanddocuments/troopersforms",
+      "url": "/"
+    }
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/dam/formsanddocuments/"
   ]
 }
